@@ -1,0 +1,74 @@
+!SESSION 2010-09-22 17:09:02.284 -----------------------------------------------
+eclipse.buildId=I20100608-0911
+java.version=1.6.0_21
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data C:\Users\Chris\youthinasia -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 4 4 2010-09-22 17:16:39.258
+!MESSAGE Could not create action delegate for id: org.eclipse.egit.ui.actionfetch
+
+!ENTRY org.eclipse.ui 4 0 2010-09-22 17:16:39.264
+!MESSAGE Action must implement IWorkbenchWindowActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2010-09-22 17:16:39.266
+!MESSAGE Could not create action delegate for id: org.eclipse.egit.ui.actionpush
+
+!ENTRY org.eclipse.ui 4 0 2010-09-22 17:16:39.266
+!MESSAGE Action must implement IWorkbenchWindowActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2010-09-22 17:16:39.269
+!MESSAGE Could not create action delegate for id: org.eclipse.egit.ui.actionbranch
+
+!ENTRY org.eclipse.ui 4 0 2010-09-22 17:16:39.269
+!MESSAGE Action must implement IWorkbenchWindowActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2010-09-22 17:16:39.306
+!MESSAGE Could not create action delegate for id: org.eclipse.egit.ui.actioncommit
+
+!ENTRY org.eclipse.ui 4 0 2010-09-22 17:16:39.307
+!MESSAGE Action must implement IWorkbenchWindowActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2010-09-22 17:16:39.310
+!MESSAGE Could not create action delegate for id: org.eclipse.egit.ui.actionreset
+
+!ENTRY org.eclipse.ui 4 0 2010-09-22 17:16:39.311
+!MESSAGE Action must implement IWorkbenchWindowActionDelegate
+!SESSION 2010-09-22 17:19:32.803 -----------------------------------------------
+eclipse.buildId=I20100608-0911
+java.version=1.6.0_21
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data C:\Users\Chris\youthinasia -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 4 4 2010-09-22 17:21:50.395
+!MESSAGE Could not create action delegate for id: org.eclipse.egit.ui.actionfetch
+
+!ENTRY org.eclipse.ui 4 0 2010-09-22 17:21:50.401
+!MESSAGE Action must implement IWorkbenchWindowActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2010-09-22 17:21:50.403
+!MESSAGE Could not create action delegate for id: org.eclipse.egit.ui.actionpush
+
+!ENTRY org.eclipse.ui 4 0 2010-09-22 17:21:50.404
+!MESSAGE Action must implement IWorkbenchWindowActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2010-09-22 17:21:50.406
+!MESSAGE Could not create action delegate for id: org.eclipse.egit.ui.actionbranch
+
+!ENTRY org.eclipse.ui 4 0 2010-09-22 17:21:50.407
+!MESSAGE Action must implement IWorkbenchWindowActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2010-09-22 17:21:50.425
+!MESSAGE Could not create action delegate for id: org.eclipse.egit.ui.actioncommit
+
+!ENTRY org.eclipse.ui 4 0 2010-09-22 17:21:50.425
+!MESSAGE Action must implement IWorkbenchWindowActionDelegate
+
+!ENTRY org.eclipse.ui 4 4 2010-09-22 17:21:50.428
+!MESSAGE Could not create action delegate for id: org.eclipse.egit.ui.actionreset
+
+!ENTRY org.eclipse.ui 4 0 2010-09-22 17:21:50.429
+!MESSAGE Action must implement IWorkbenchWindowActionDelegate

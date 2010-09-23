@@ -1,0 +1,10 @@
+INDEX VERSION 1.126+C:\Users\Chris\youthinasia\.metadata\.plugins\org.eclipse.jdt.core
+556421805.index
+951623278.index
+1821669047.index
+1178933308.index
+2803370235.index
+3661030295.index
+3697699684.index
+3859200656.index
+2968261911.index
